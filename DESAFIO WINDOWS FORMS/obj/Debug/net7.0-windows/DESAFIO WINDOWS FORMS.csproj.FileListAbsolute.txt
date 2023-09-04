@@ -1,0 +1,16 @@
+C:\Users\Aline\source\repos\DESAFIO WINDOWS FORMS\DESAFIO WINDOWS FORMS\bin\Debug\net7.0-windows\DESAFIO WINDOWS FORMS.exe
+C:\Users\Aline\source\repos\DESAFIO WINDOWS FORMS\DESAFIO WINDOWS FORMS\bin\Debug\net7.0-windows\DESAFIO WINDOWS FORMS.deps.json
+C:\Users\Aline\source\repos\DESAFIO WINDOWS FORMS\DESAFIO WINDOWS FORMS\bin\Debug\net7.0-windows\DESAFIO WINDOWS FORMS.runtimeconfig.json
+C:\Users\Aline\source\repos\DESAFIO WINDOWS FORMS\DESAFIO WINDOWS FORMS\bin\Debug\net7.0-windows\DESAFIO WINDOWS FORMS.dll
+C:\Users\Aline\source\repos\DESAFIO WINDOWS FORMS\DESAFIO WINDOWS FORMS\bin\Debug\net7.0-windows\DESAFIO WINDOWS FORMS.pdb
+C:\Users\Aline\source\repos\DESAFIO WINDOWS FORMS\DESAFIO WINDOWS FORMS\obj\Debug\net7.0-windows\DESAFIO_WINDOWS_FORMS.Form1.resources
+C:\Users\Aline\source\repos\DESAFIO WINDOWS FORMS\DESAFIO WINDOWS FORMS\obj\Debug\net7.0-windows\DESAFIO WINDOWS FORMS.csproj.GenerateResource.cache
+C:\Users\Aline\source\repos\DESAFIO WINDOWS FORMS\DESAFIO WINDOWS FORMS\obj\Debug\net7.0-windows\DESAFIO WINDOWS FORMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aline\source\repos\DESAFIO WINDOWS FORMS\DESAFIO WINDOWS FORMS\obj\Debug\net7.0-windows\DESAFIO WINDOWS FORMS.AssemblyInfoInputs.cache
+C:\Users\Aline\source\repos\DESAFIO WINDOWS FORMS\DESAFIO WINDOWS FORMS\obj\Debug\net7.0-windows\DESAFIO WINDOWS FORMS.AssemblyInfo.cs
+C:\Users\Aline\source\repos\DESAFIO WINDOWS FORMS\DESAFIO WINDOWS FORMS\obj\Debug\net7.0-windows\DESAFIO WINDOWS FORMS.csproj.CoreCompileInputs.cache
+C:\Users\Aline\source\repos\DESAFIO WINDOWS FORMS\DESAFIO WINDOWS FORMS\obj\Debug\net7.0-windows\DESAFIO WINDOWS FORMS.dll
+C:\Users\Aline\source\repos\DESAFIO WINDOWS FORMS\DESAFIO WINDOWS FORMS\obj\Debug\net7.0-windows\refint\DESAFIO WINDOWS FORMS.dll
+C:\Users\Aline\source\repos\DESAFIO WINDOWS FORMS\DESAFIO WINDOWS FORMS\obj\Debug\net7.0-windows\DESAFIO WINDOWS FORMS.pdb
+C:\Users\Aline\source\repos\DESAFIO WINDOWS FORMS\DESAFIO WINDOWS FORMS\obj\Debug\net7.0-windows\DESAFIO WINDOWS FORMS.genruntimeconfig.cache
+C:\Users\Aline\source\repos\DESAFIO WINDOWS FORMS\DESAFIO WINDOWS FORMS\obj\Debug\net7.0-windows\ref\DESAFIO WINDOWS FORMS.dll
